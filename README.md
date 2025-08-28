@@ -1,12 +1,17 @@
-# Descrição do Projeto
+# Descrição do projeto
 
 Este projeto, desenvolvido em parceria com a Escola DNC, teve como objetivo criar um dashboard analítico e dinâmico para a Athos Digital, uma agência de marketing digital, com foco no setor de produção agropecuária e, especificamente, em operações de Barter. O sistema se integra aos dados de ERPs dos clientes para fornecer dashboards personalizáveis, buscando expandir a variedade de modelos existentes.
 
 A base de dados foi estruturada em cinco planilhas no Google Sheets—Dados das Operações, Insumos Aplicados, Lista de Insumos, Projeção Financeira e Dados sobre o Compromisso (CPR)—e alimentada com dados de operações de soja, alguns gerados por IA e outros baseados em dados reais.
 
-O projeto resultou na criação de um relatório no Power BI para uma cooperativa fictícia, a "SoyCoop", com quatro painéis: Visão Geral, Informações Técnicas de Produção e Produtos, Financeiro das Operações e Simulação. Os dashboards foram projetados para serem claros e orientados para a tomada de decisão, utilizando KPIs de produção, financeiro e de risco. O painel de simulação permite testar cenários e o impacto de variações em fatores como preço e custo.
+O projeto resultou na criação de um relatório no Power BI para uma cooperativa fictícia, a "SoyCoop", com quatro painéis: Visão Geral, Informações Técnicas de Produção e Produtos, Financeiro das Operações e Simulação. Os dashboards foram projetados para serem claros e orientados para a tomada de decisão, utilizando KPIs de produção, financeiro e de risco. O painel de simulação permite testar cenários e o impacto de variações em fatores como preço e custo.  
 
 *Projeto realizado com mais dois membros e todas as decisões foram tomadas em conjunto.
+
+---
+ ## Sobre os dados
+
+*Os dados apresentados neste dashboard são inteiramente fictícios e foram gerados exclusivamente para fins de demonstração. Não representam informações reais de empresas, clientes ou operações comerciais. Essa abordagem foi adotada para garantir a privacidade e a confidencialidade de dados sensíveis.*
 
 ---
 
